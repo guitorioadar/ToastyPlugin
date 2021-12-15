@@ -1,2 +1,2 @@
-# ToastyPlugin
-ToastyPlugin
+# cordova toast
+Cordova Toast
